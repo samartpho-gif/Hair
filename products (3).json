@@ -1,0 +1,102 @@
+[
+  {
+    "id": "spray-fresh-30ml",
+    "name": "ยาสระผมสเปรย์ Fresh (เล็ก)",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นสะอาด สดชื่น ให้หนังศีรษะและเส้นผมรู้สึกเบาสบายตลอดวัน"
+  },
+  {
+    "id": "spray-fresh-100ml",
+    "name": "ยาสระผมสเปรย์ Fresh (ใหญ่)",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นสะอาด สดชื่น ให้หนังศีรษะและเส้นผมรู้สึกเบาสบายตลอดวัน"
+  },
+  {
+    "id": "spray-sweet-30ml",
+    "name": "ยาสระผมสเปรย์ Sweet (เล็ก)",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหอมหวานอ่อนละมุน ติดผมนุ่มนวล ให้ความรู้สึกอบอุ่น"
+  },
+  {
+    "id": "spray-sweet-100ml",
+    "name": "ยาสระผมสเปรย์ Sweet (ใหญ่)",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหอมหวานอ่อนละมุน ติดผมนุ่มนวล ให้ความรู้สึกอบอุ่น"
+  },
+  {
+    "id": "spray-confident-30ml",
+    "name": "ยาสระผมสเปรย์ Confident (เล็ก)",
+    "mood": "confident",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นนุ่มลึกมีมิติ เสริมบุคลิกมั่นใจ ดูเป็นผู้ใหญ่"
+  },
+  {
+    "id": "spray-confident-100ml",
+    "name": "ยาสระผมสเปรย์ Confident (ใหญ่)",
+    "mood": "confident",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นนุ่มลึกมีมิติ เสริมบุคลิกมั่นใจ ดูเป็นผู้ใหญ่"
+  },
+  {
+    "id": "spray-romance-30ml",
+    "name": "ยาสระผมสเปรย์ Romance (เล็ก)",
+    "mood": "romance",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นดอกไม้หวานละมุน ให้ความรู้สึกอ่อนโยนและน่าหลงใหล"
+  },
+  {
+    "id": "spray-romance-100ml",
+    "name": "ยาสระผมสเปรย์ Romance (ใหญ่)",
+    "mood": "romance",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นดอกไม้หวานละมุน ให้ความรู้สึกอ่อนโยนและน่าหลงใหล"
+  },
+  {
+    "id": "rollon-fresh",
+    "name": "ยาสระผมโรลออน Fresh",
+    "mood": "fresh",
+    "type": "rollon",
+    "size": null,
+    "price": 149,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นสะอาด สดชื่น ให้หนังศีรษะและเส้นผมรู้สึกเบาสบายตลอดวัน"
+  },
+  {
+    "id": "rollon-sweet",
+    "name": "ยาสระผมโรลออน Sweet",
+    "mood": "sweet",
+    "type": "rollon",
+    "size": null,
+    "price": 149,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหอมหวานอ่อนละมุน ติดผมนุ่มนวล ให้ความรู้สึกอบอุ่น"
+  }
+]
